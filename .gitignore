@@ -1,0 +1,73 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---- 虚拟环境 ----
+.venv/
+venv/
+ENV/
+env/
+
+# ---- PyInstaller 打包产物 ----
+*.spec
+_internal/
+build/
+dist/
+
+# ---- IDE / 编辑器 ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cproject
+.project
+.settings/
+
+# ---- Keil / MDK ----
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.scvd
+Objects/
+Listings/
+*.bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.htm
+*.lnp
+*.map
+*.lst
+
+# ---- 生成的中间产物 ----
+preview.png
+oledfont.c.bak
+oledfont.h.bak
+
+# ---- 系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store
