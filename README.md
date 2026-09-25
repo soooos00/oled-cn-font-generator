@@ -1,6 +1,7 @@
 # OLED 中文字库生成器
 
 > 为 STM32 + SSD1306 项目一键生成中文点阵字库。输出**纯 ASCII 源码**，Keil AC5 / AC6 / GCC 直接编译，不会乱码。
+> Generate 16x16 Chinese bitmap fonts for SSD1306 OLED. Pure-ASCII C output, Keil AC5 safe. GUI + CLI.
 
 <p>
   <img alt="platform" src="https://img.shields.io/badge/platform-Windows-0078D4">
